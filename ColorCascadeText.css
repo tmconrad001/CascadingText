@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+}
+
+#options {
+    background-color: white;
+    text-align: left;
+    font-size: 140%;
+    padding-top: 8px; 
+}
+
+#options table {
+    text-align: center;
+    font-size: 100%;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    color: blue;
+}
+
+#options td {
+    padding: 5px;
+    border: 1px dashed black;
+    margin: 0px;
+    cursor: pointer;
+}
